@@ -24,7 +24,7 @@
 <h2>Configuração do Ambiente de Desenvolvimento</h2>
 
 <ol>
-  <li>Certifique-se de ter o Java 8 instalado em sua máquina.</li>
+  <li>Certifique-se de ter o Java 20 instalado em sua máquina.</li>
   <li>Clone este repositório em seu ambiente de desenvolvimento local.</li>
   <li>Importe o projeto em sua IDE preferida como um projeto Maven.</li>
   <li>Configure as informações do banco de dados no arquivo <code>application.properties</code>.</li>
